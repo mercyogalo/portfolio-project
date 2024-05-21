@@ -14,7 +14,7 @@
     font-size: 64px;
     font-weight: 700px;
     line-height: 84px;
-    margin-left: 100px;
+    margin-left: 20px;
 }
 
 .personal-name{
@@ -121,5 +121,8 @@ transform: rotate(360deg);
     }
     .email-link{
       font-size: 16px;
+    }
+    .contact-section{
+      text-align: center;
     }
   }
