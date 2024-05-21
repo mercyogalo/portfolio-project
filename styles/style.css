@@ -29,8 +29,11 @@ line-height: 85px;
 }
 .personal-description{
 font-family: var(--normal-font-family);
-font-size: 16px;
+font-size: 13px;
 line-height: 30px;
+}
+.profile-pic{
+  height: 500px;
 }
 .projects h2{
     font-family: var(--normal-font-family);
