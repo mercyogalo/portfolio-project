@@ -1,20 +1,18 @@
-h1{
-    font-family: "Poppins", sans-serif;
-}
-
-
 :root{
   --heading-font-family:"Playfair Display", serif;
   --normal-font-family:"Poppins", sans-serif;
   --primary-color:#F9F7FE;
   --secondary-color:#6C63FF;
 }
+body{
+  font-family: var(--normal-font-family);
+  background-color: white;
+}
   p{
     font-family: "Playfair Display", serif;
   }
   .main-section{
     background-color: var(--primary-color);
-    font-family: var(--normal-font-family);
     text-align: center;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -43,4 +41,51 @@ h1{
     font-size: 18px;
     line-height: 27px;
     color: #272142;
+  }
+  .project-heading{
+    font-family: var(--heading-font-family);
+    font-size: 64px;
+    line-height: 85px;
+  }
+  .project-description{
+    font-family: var(--normal-font-family);
+    font-size: 16px;
+    line-height: 30px;
+  }
+  .project-work-link{
+    font-family: var(--normal-font-family);
+    color: var(--secondary-color);
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid var(--secondary-color);
+    border-radius: 4px;
+    padding: 15px 27px;
+  }
+  .personal-access{
+    background-color: var(--primary-color);
+    border-radius: 20px;
+  }
+  .personal-access h2{
+    font-family: var(--heading-font-family);
+    font-size: 40px;
+    line-height: 64px;
+  }
+  .personal-access p{
+    font-size: 12px;
+    line-height: 27px;
+    color: #272142B2;
+  }
+  .email-link{
+    text-align: center;
+    font-family: var(--normal-font-family);
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+  }
+  .icon-styling{
+    border:1px solid var(--primary-color);
+    background-color: var(--primary-color);
+    border-radius: 50px;
+    padding: 8px;
   }
