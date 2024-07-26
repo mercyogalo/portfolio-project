@@ -16,6 +16,9 @@
     line-height: 84px;
     margin-left: 20px;
 }
+.icon-link{
+text-decoration: none;
+}
 
 .personal-name{
 font-family: var(--heading-font-family);
