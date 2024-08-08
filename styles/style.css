@@ -16,8 +16,8 @@
     line-height: 84px;
     margin-left: 20px;
 }
-.icon-link{
-text-decoration: none;
+a{
+  text-decoration: none;
 }
 
 .personal-name{
