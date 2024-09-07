@@ -16,10 +16,6 @@
     line-height: 84px;
     margin-left: 20px;
 }
-a{
-  text-decoration: none;
-}
-
 .personal-name{
 font-family: var(--heading-font-family);
 font-size: 64px;
@@ -100,11 +96,7 @@ line-height: 30px;
     background-color: var(--primary-color);
     border-radius: 50px;
     padding: 8px;
-    text-decoration: none;
   }
-.emoji-link{
-  text-decoration: none;
-}
   .nav-link{
     font-family: var(--normal-font-family);
     font-size: 16px;
