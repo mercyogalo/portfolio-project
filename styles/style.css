@@ -1,8 +1,8 @@
 :root{
     --heading-font-family:"Playfair Display", serif;
     --normal-font-family:"Poppins", sans-serif;
-    --primary-color:#F9F7FE;
-    --secondary-color:#6C63FF;
+    --primary-color:#745D39;
+    --secondary-color:#141D2C;
   }
   body{
     font-family: var(--normal-font-family);
