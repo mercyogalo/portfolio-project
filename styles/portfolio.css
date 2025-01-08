@@ -83,6 +83,9 @@ body{
     line-height: 36px;
     font-weight: bold;
   }
+  .icon{
+    margin-bottom: 10px;
+  }
   .icon-styling{
     border:1px solid var(--primary-color);
     background-color: var(--primary-color);
