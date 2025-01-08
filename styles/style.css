@@ -55,7 +55,9 @@ line-height: 30px;
 }
 
 
-
+.icons{
+  margin-bottom: 10px;
+}
 
 .icons a{
   text-decoration: none;
