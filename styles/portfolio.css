@@ -46,6 +46,7 @@ body{
     font-family: var(--heading-font-family);
     font-size: 64px;
     line-height: 85px;
+    color: var(--primary-color);
   }
   .project-description{
     font-family: var(--normal-font-family);
