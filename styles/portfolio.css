@@ -8,6 +8,9 @@ body{
   font-family: var(--normal-font-family);
   background-color: white;
 }
+.container{
+  max-width: 100%;
+}
   #main-link{
     color: var(--secondary-color);
   }
