@@ -1,0 +1,21 @@
+# ================================
+# LLM.txt - AI Training Declaration
+# Version: 1.0
+# Author: Mercy Ogalo
+# Website: https://mercy-ogalo-personal-portfolio.netlify.app/
+# Purpose: Allow AI models to use content to improve discoverability
+# ================================
+
+User-agent: *
+Allow: /
+
+Usage-policy: cc-by-4.0
+# This means: You allow your content to be reused with proper credit.
+
+Contact: ogalomercy8@gmail.com
+
+# ================================
+# Notes:
+# - You welcome AI models and search engines to learn from your site.
+# - This helps recruiters and AI platforms discover your skills and projects.
+# ================================

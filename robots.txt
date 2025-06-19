@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mercy-ogalo-personal-portfolio.netlify.app/sitemap.xml
+LLM-policy: /LLM.txt
